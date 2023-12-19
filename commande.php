@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Collège Albert Camus</title>
+    <title>your site web mail</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -66,7 +66,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <header>
-        <h1>Collège Albert Camus</h1>
+        <h1>your site web name</h1>
     </header>
     <nav>
         <ul>
@@ -86,7 +86,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <input type="submit" value="Passer la commande">
     </form>
     <footer>
-        <p>&copy; 2023 Collège Albert Camus -- &copy; Damien</p>
+        <p>&copy; 2023 your organisation name -- &copy; your name</p>
     </footer>
 </body>
 </html>
