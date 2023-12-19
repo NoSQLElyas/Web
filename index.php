@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Graphic Shop</title>
+    <title>your site name</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -45,7 +45,7 @@
 </head>
 <body>
     <header>
-        <h1>Graphic Shop</h1>
+        <h1>your site name</h1>
     </header>
     <nav>
         <ul>
@@ -56,10 +56,10 @@
     </nav>
     <section>
 
-        <p>Bienvenue sur Graphic Shop !</p>
+        <p>Bienvenue sur your site name !</p>
     </section>
     <footer>
-        <p>&copy; 2023 Graphic Shop -- &copy; 2023 Developpeur Damien</p>
+        <p>&copy; 2023 your organisation name -- &copy; 2023 your name</p>
     </footer>
 </body>
 </html>
