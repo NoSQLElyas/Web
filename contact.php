@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Collège Albert Camus</title>
+    <title>your site name</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -55,9 +55,9 @@
     </nav>
     <section>
 <h2><link>Contactez nous</link></h2>
-<p>Pour toute demande, veuillez contacter : <link>damien.frappa.co@gmail.com</link></p>
+<p>Pour toute demande, veuillez contacter : <link>your email</link></p>
 <footer>
-        <p>&copy; 2023 Collège Albert Camus -- &copy; Damien</p>
+        <p>&copy; 2023 your organisation name -- &copy; your name</p>
     </footer>
 </body>
 </html>
